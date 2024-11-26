@@ -1,0 +1,23 @@
+a{
+    margin-left: 728px;
+    
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#pc{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+#text{
+    background-color: white;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 0 6px 2px rgba(0,0,0,0.1);
+    width: 125px;
+}
